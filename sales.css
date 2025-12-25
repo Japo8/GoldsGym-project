@@ -164,7 +164,7 @@ select {
   height: 90%;
 }
 
-.line{
+.line {
   border: solid lightgray 0.1px;
   position: relative;
   bottom: 53%;
@@ -194,7 +194,7 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap:80px;
+  gap: 80px;
 }
 
 .footer__logo {
